@@ -1,4 +1,4 @@
-#Simple Chat Application using Chat.io  
+#Simple Chat Application using Socket.io  
 
 1) git clone or download the project    
 2) do npm install    
